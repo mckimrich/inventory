@@ -40,6 +40,10 @@ if (!isset($_SESSION["userid"])) {
 			<div class="col-md-8">
 				<div class="jumbotron" style="width:100%;height:100%;">
 					<h1>Welcome Admin,</h1>
+
+8/5/95
+12920118088
+
 					<div class="row">
 						<div class="col-sm-6">
 							<iframe src="http://free.timeanddate.com/clock/i616j2aa/n1993/szw160/szh160/cf100/hnce1ead6" frameborder="0" width="160" height="160"></iframe>
